@@ -1,0 +1,92 @@
+# Personal Info
+name: Your Name
+title: Project Manager | Water Infrastructure | Engineering & Bids
+email: your.email@example.com
+phone: +44 7123 456 789
+website: https://remotepmhub.github.io
+linkedin: yourlinkedinhandle
+github: yourgithubusername
+location: London, UK
+
+# Summary
+summary: >
+  Chartered-level project manager with over 10 years of experience delivering water infrastructure projects across the UK and West Africa. Proven ability to manage multidisciplinary teams, lead technical bids, and implement digital project delivery tools. Passionate about sustainable infrastructure and digital transformation.
+
+# Projects
+projects:
+  - title: Smart Water Infrastructure Dashboard
+    link: https://github.com/yourusername/smart-water-dashboard
+    tagline: "Developed a real-time dashboard using Python and Power BI to track trunk main rehabilitation KPIs."
+
+  - title: Regulatory Compliance Tracker (MVP)
+    link: https://github.com/yourusername/compliance-tracker
+    tagline: "Created a compliance tracker that integrated Jira workflows and risk registers for engineering projects."
+
+  - title: African SME B2B Procurement Portal
+    link: https://github.com/yourusername/sme-procurement-mvp
+    tagline: "Led MVP design of a B2B marketplace platform to connect African SMEs with international suppliers."
+
+# Experience
+experiences:
+  - role: Engineering Project Manager
+    time: 2023 – Present
+    company: AtkinsRealis, UK
+    details: |
+      - Managed delivery of £5M+ trunk main rehabilitation projects across Thames Water region.
+      - Oversaw project lifecycles from concept to handover, including HAZOPs, construction and stakeholder liaison.
+      - Introduced Agile delivery tools, improving reporting turnaround by 40%.
+      - Led multi-disciplinary teams, risk workshops, and bid writing for major frameworks.
+
+  - role: Bid Project Manager
+    time: 2023 – Present
+    company: AtkinsRealis, UK
+    details: |
+      - Managed strategic bids across water and environment sectors.
+      - Coordinated SME inputs, value proposition, CVs and case studies for high-value proposals.
+      - Increased bid win rate by 15% through improved collaboration and content reuse.
+
+  - role: Technical Sales / CRM Support Specialist
+    time: 2018 – 2022
+    company: Leading Bank, Nigeria
+    details: |
+      - Delivered CRM, SAP ERP, and technical sales solutions to enterprise clients.
+      - Trained internal users and ensured data integrity in complex financial environments.
+      - Provided Tier-2 customer support on B2B services.
+
+# Education
+education:
+  - degree: MSc Environmental Engineering
+    time: 2013 – 2015
+    university: Imperial College London
+
+  - degree: BSc Hydrogeology
+    time: 2007 – 2011
+    university: Federal University of Technology, Nigeria
+
+# Skills
+skills:
+  - Project Delivery (Agile, Waterfall)
+  - Stakeholder Engagement
+  - Technical Bids & Proposals
+  - Risk & Compliance (GRC)
+  - Tools: Jira, MS Project, Power BI, SAP CRM, AutoCAD
+  - Programming: Python, SQL
+
+# Certifications
+certifications:
+  - PMP – Project Management Institute
+  - Certified ScrumMaster – Scrum Alliance
+  - AWS Certified Cloud Practitioner
+  - APM PMQ – Association for Project Management
+
+# Languages
+languages:
+  - English
+  - Yoruba
+
+# Interests
+interests:
+  - Sustainable Infrastructure
+  - Digital Transformation
+  - Water and Sanitation Projects
+  - Climate Risk Intelligence
